@@ -1,5 +1,4 @@
 # AULA 05 - FLUXO DE TRABALHO: AUTOMAÇÃO NOCODE
-[Aula 5]()
 [![Aula 5](https://i9.ytimg.com/vi/O9sEBaoveAU/mqdefault.jpg?sqp=CPCw6KQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBsgMih_MA8=&rs=AOn4CLBLtWH9IWASLUktwJr_3zxABRxihQ)](https://youtu.be/O9sEBaoveAU)
 
 **Links, dicas e notas de aula**

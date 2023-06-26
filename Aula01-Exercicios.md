@@ -1,5 +1,5 @@
 # Exercícios da Aula 01
-[![Aula 1](https://i9.ytimg.com/vi/y8eFdYHyT5I/mqdefault.jpg?sqp=CLjB46QG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBYgMyh_MA8=&rs=AOn4CLDvL7ll6HZcbMo34cWStYfED2OGIA)](https://youtu.be/y8eFdYHyT5I)
+[![Aula 1](https://i9.ytimg.com/vi/y8eFdYHyT5I/mqdefault.jpg?sqp=CPCw6KQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBYgMyh_MA8=&rs=AOn4CLDFI97V1rSrEf2SpZzPOERqcXWBXw)](https://youtu.be/y8eFdYHyT5I)
 
 Seguem os dois exercícios passados ao final da aula.
 

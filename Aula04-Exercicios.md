@@ -1,5 +1,5 @@
 # AULA 04 - TAREFAS EM PLANILHAS COM IA E APIS
-[Aula 4](https://youtu.be/5zc6yV0v4pY)
+[![Aula 4](https://i9.ytimg.com/vi/BvvgTDgSVLs/mqdefault.jpg?sqp=CPCw6KQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBYgNSh_MA8=&rs=AOn4CLBVzlErVUcQUfSh3cNZyedguO__Dw)](https://youtu.be/5zc6yV0v4pY)
 
 ## Links, dicas e notas de aula
 

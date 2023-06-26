@@ -1,5 +1,5 @@
 # AULA 02 - GPT NO SEU TRABALHO: FLUXO E DADOS
-[Aula 2](https://youtu.be/CFaCEnPzodU)
+[![Aula 2](https://i9.ytimg.com/vi/CFaCEnPzodU/mqdefault.jpg?sqp=CPCw6KQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBUgLih_MA8=&rs=AOn4CLDoveYZkzMZytOJ1SQ3PUPzaUL4pw)](https://youtu.be/CFaCEnPzodU)
 
 ## Links, dicas e notas de aula
 

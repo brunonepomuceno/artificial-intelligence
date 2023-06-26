@@ -1,5 +1,5 @@
 # AULA 03 - ENGENHARIA DE PROMPT PARA TAREFAS COMPLEXAS
-[Aula 3](https://youtu.be/BvvgTDgSVLs)
+[![Aula 3](https://i9.ytimg.com/vi/BvvgTDgSVLs/mqdefault.jpg?sqp=CPCw6KQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBYgNSh_MA8=&rs=AOn4CLBVzlErVUcQUfSh3cNZyedguO__Dw)](https://youtu.be/BvvgTDgSVLs)
 
 ## Links, dicas e notas de aula
 

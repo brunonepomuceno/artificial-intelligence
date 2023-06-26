@@ -1,4 +1,5 @@
 # Exercícios da Aula 01
+[Aula 1](https://youtu.be/y8eFdYHyT5I)
 
 Seguem os dois exercícios passados ao final da aula.
 
@@ -141,3 +142,55 @@ Escolhi o filme **A Vida Secreta de Walter Mitty** de 2013.
 
 Este exercício, de fato, é bem legal porque mostra a versatilidade do GPT. Aqui tivemos um bom exemplo do embate entre a inteligência artificial e a burrice natural. Não esperava que teria de pedir para ele começar. E mais, boa parte das questões eram, pelo menos pra mim, difíceis de se responder apenas com sim ou não.
 
+
+
+# AULA 01 - EXPLORANDO A IA: FERRAMENTAS E POSSIBILIDADES
+
+## Links, dicas e notas de aula
+
+Boas-vindas! Chegou a hora de mergulhar em Inteligência Artificial e levar suas habilidades profissionais para o próximo nível com a Imersão IA da Alura!
+
+Será que a inteligência artificial vai revolucionar a maneira como trabalhamos atualmente?
+
+Nesta primeira aula da Imersão IA, você terá a oportunidade de explorar ferramentas inovadoras, como o ChatGPT, Bing.AI e outras que podem te auxiliar em seu trabalho, independentemente da área em que atue. Essa é uma oportunidade única para entender como a inteligência artificial está impactando o mundo e descobrir como essas tecnologias podem ser aplicadas de forma relevante em seu trabalho.
+
+Abaixo, disponibilizamos todo o material necessário para que você acompanhe a aula e avance em seu projeto.
+
+- [Notion - Guia de Mergulho](https://notion.so/guia_imersao_ia)
+  - Para te ajudar durante as aulas, criamos um notion exclusivo da Imersão IA! Com dicas de como se preparar para a Imersão, conteúdos relacionados ao tema, calendário para você ficar por dentro de tudo que vai rolar nessa edição e muito mais.
+
+- [Discord da Imersão IA](https://discord.gg/imersaoia)
+  - Nosso servidor no Discord será o ponto de encontro perfeito para você interagir com outros estudantes, tirar dúvidas e compartilhar suas descobertas. Entre agora mesmo no Discord da Imersão IA!
+
+## Prompts da aula
+1. Escreva a sinopse de um filme de Star Wars que se passa durante a invasão da cidade de São Paulo em um futuro apocalíptico.
+2. Write the synopsis of a Star Wars movie that takes place during the invasion of São Paulo city in a future apocalyptic scenario.
+3. Crie uma imagem de um poster para esse filme.
+4. Qual é a diferença entre o Excel e o Google Spreadsheets?
+5. Crie uma tabela com os 10 países mais populosos da Europa. Ela vai ter 3 colunas. Na primeira coluna você terá o nome do país; na segunda coluna, a capital desse país; e na terceira coluna, a população desse país.
+6. Crie cinco ideias para uma campanha promocional de lançamento de um novo filme, cuja sinopse é...
+7. Crie um título e uma legenda atraentes para um post no Instagram sobre a estreia de um novo filme, cuja sinopse é...
+
+## Links citados
+- Link da ferramenta ChatGPT.openai
+- Link do navegador Bing AI
+- Link da ferramenta Poe
+- Link da ferramenta Bard
+- Link do navegador Operaa
+- O que é VPN?
+- Link da faculdade FIAP
+
+## Desafios desta aula
+1. Jogo de adivinhação de palavras
+   - A ideia é você escolher uma palavra aleatória e pedir ao ChatGPT para tentar adivinhar, dando uma dica por vez. Por exemplo, o ChatGPT pode começar dando a primeira letra da palavra e, em seguida, pedir a você para confirmar se essa letra faz parte da palavra escolhida. Se sim, ele pode dar a segunda letra e assim por diante. O objetivo do jogo é adivinhar a palavra com o menor número possível de dicas.
+
+2. Jogo de adivinhação de filmes
+   - Escolha um dos seus filmes favoritos e sugira ao ChatGPT que faça perguntas sobre a trama, os personagens, o gênero do filme ou a sua data de lançamento para tentar adivinhar qual é o nome do filme que você escolheu. O objetivo do jogo é que o ChatGPT adivinhe o nome do filme com o menor número possível de perguntas.
+
+3. Divulgue seu projeto
+   - Mostre o seu projeto para o mundo compartilhando no LinkedIn e Instagram! Marque a Alura (@AluraOnline) e o Paulo (@paulo_hipster). Vamos adorar ver os seus projetos e acompanhar a sua evolução! Lembre-se de utilizar a hashtag #ImersaoIA para que o seu projeto alcance ainda mais pessoas.
+
+Bom mergulho e até a próxima aula!
+
+
+[def]: https://youtu.be/y8eFdYHyT5I
